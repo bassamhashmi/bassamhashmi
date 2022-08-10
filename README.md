@@ -1,6 +1,6 @@
-<h2> Hi! I'm Muhammad Bassam Hashmi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
+<h1 align="center">Hi 👋, I'm Muhammad Bassam Hashmi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <img align='right' src="https://media.giphy.com/media/cb9aF9tDyiRkYbz3BX/giphy.gif" width="230">
-<p><em>A passionate full stack developer from Pakistan</em></p>
+<h3 align="center"><em>A passionate full stack developer from Pakistan</em></h3>
 
 ##
 
